@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "lifestealsmps1-rcHf.aternos.me",
+    "ip": "lifestealsmps1-rcHf.aternos.me:60508",
     "port": 60508,
     "version": "",
     "try-creative": false
